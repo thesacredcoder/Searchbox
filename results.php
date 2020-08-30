@@ -39,3 +39,5 @@ if(type == 2){
 
     echo json_encode($return_arr);
 }
+
+?>
